@@ -1,0 +1,10 @@
+venv*
+.venv*
+.idea
+.pybuilder
+target
+src/main/scripts
+**/__pycache__/*
+*.pyc
+.DS_Store
+**/.DS_Store

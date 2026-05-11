@@ -1,0 +1,59 @@
+VALID_INVALID,ID_TEST,FILE,RESULT
+VALID,RF2_TEST__v1.1,valid1.json,56894ec146a011f953d8652251eb6e3bc52ddd2ec6ea3c4078ba799291526c4f
+VALID,RF2_TEST__v1.2,valid2.json,51ade4c138a6dea555265ec593db7ad6eba1677cc4f0a3bf54881e65a0416780
+VALID,RF2_TEST__v1.3,valid3.json,c7ea70e6d2e28dc9d8c230b42fb3707b0badaf7425f3c5f223796d75e915c189
+INVALID,RF2_TEST__2,ko_del_close_label_quoation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__3,ko_del_colon_first_paramenter.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__4,ko_del_comma.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__5,ko_del_content.json,Error - Invalid Key in JSON
+INVALID,RF2_TEST__6,ko_del_dot_extension.json,Invalid File Name
+INVALID,RF2_TEST__7,ko_del_filename.json,Invalid File Name
+INVALID,RF2_TEST__8,ko_del_filenamen_first_char.json,Invalid File Name
+INVALID,RF2_TEST__9,ko_del_first_character_value.json,Invalid Project ID
+INVALID,RF2_TEST__10,ko_del_first_label.json,Error - Invalid Key in JSON
+INVALID,RF2_TEST__11,ko_del_first_label_parameter.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__12,ko_del_first_paramenter_value.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__13,ko_del_first_parameter.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__14,ko_del_first_value.json,Invalid Project ID
+INVALID,RF2_TEST__15,ko_del_first_value_close_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__16,ko_del_first_value_open_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__17,ko_del_open_brace.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__18,ko_del_open_label_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__19,ko_del_second_parameter.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__20,ko_del_sencond_label.json,Error - Invalid Key in JSON
+INVALID,RF2_TEST__21,ko_dup_all.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__22,ko_dup_close_label_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__23,ko_dup_colon_first_parameter.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__24,ko_dup_comma.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__25,ko_dup_content.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__26,ko_dup_docx.json,Invalid File Name
+INVALID,RF2_TEST__27,ko_dup_dot_extension.json,Invalid File Name
+INVALID,RF2_TEST__28,ko_dup_filename.json,Invalid File Name
+INVALID,RF2_TEST__29,ko_dup_first_character_value.json,Invalid Project ID
+INVALID,RF2_TEST__30,ko_dup_first_filename_char.json,Invalid File Name
+INVALID,RF2_TEST__31,ko_dup_first_label.json,Error - Invalid Key in JSON
+INVALID,RF2_TEST__32,ko_dup_first_paramenter_label.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__33,ko_dup_first_paramenter_value.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__34,ko_dup_first_parameter.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__35,ko_dup_first_value.json,Invalid Project ID
+INVALID,RF2_TEST__36,ko_dup_first_value_close_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__37,ko_dup_first_value_open_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__38,ko_dup_open_brace.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__39,ko_dup_open_label_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__40,ko_dup_pdf_extension.json,Invalid File Name
+INVALID,RF2_TEST__41,ko_dup_second_label.json,Error - Invalid Key in JSON
+INVALID,RF2_TEST__42,ko_dup_second_parameter.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__43,ko_dup_xlsx.json,Invalid File Name
+INVALID,RF2_TEST__44,ko_mod_close_label_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__45,ko_mod_colon_first_parameter.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__46,ko_mod_comma.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__47,ko_mod_dot_extension.json,Invalid File Name
+INVALID,RF2_TEST__48,ko_mod_extension.json,Invalid File Name
+INVALID,RF2_TEST__49,ko_mod_filename_first_char.json,Invalid File Name
+INVALID,RF2_TEST__50,ko_mod_first_character_value.json,Invalid Project ID
+INVALID,RF2_TEST__51,ko_mod_first_label.json,Error - Invalid Key in JSON
+INVALID,RF2_TEST__52,ko_mod_first_value_close_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__53,ko_mod_first_value_open_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__54,ko_mod_open_brace.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__55,ko_mod_open_label_quotation.json,JSON Decode Error - Wrong JSON Format
+INVALID,RF2_TEST__56,ko_mod_second_label.json,Error - Invalid Key in JSON
